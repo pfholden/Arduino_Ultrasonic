@@ -1,0 +1,12 @@
+
+nbproject/
+
+lib/
+
+dist/
+
+build/
+
+*.inc
+
+*.out
